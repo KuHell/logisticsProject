@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "logisticsProject",
+    "slug": "logisticsProject",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "logisticsProject"
+}
